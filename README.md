@@ -1,0 +1,2 @@
+# chartjsdemo
+This demonstration was  inspired by a Python Flask and ChartJS tutorial hosted on pythonspot.com titled "Flask and great looking charts using Chart.js". What I added was the MySQL integration so that the data array used for rendering the charts inside the HTML canvas area can be stored and retrieved from MySQL tables. By updating the values in the tables, the rendered charts can be updated dynamically.
